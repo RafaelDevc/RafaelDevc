@@ -1,7 +1,7 @@
 # Olá, eu sou Rafael!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-rafael-blue-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blue/)](https://www.linkedin.com/in/rafael-blue/)
-[![Instagram Badge](https://img.shields.io/badge/-rafaelblue-333?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu_instagram_aqui/)](https://www.instagram.com/seu_instagram_aqui/)
+[![Linkedin Badge](https://img.shields.io/badge/-rafaelcarvalho-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-carvalho-02a4932b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/rafael-carvalho-02a4932b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Instagram Badge](https://img.shields.io/badge/-rafael.dev1-ff007a?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafael.dev1/profilecard/?igsh=N24ybmhsZWpkcnln)](https://www.instagram.com/rafael.dev1/profilecard/?igsh=N24ybmhsZWpkcnln)
 
 ### Sobre mim
 Sou estudante de Tecnologia da Informação, atualmente cursando **Segurança da Informação**. Tenho um forte interesse em cibersegurança, programação em Python e redes de computadores. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
