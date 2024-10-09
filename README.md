@@ -5,7 +5,7 @@
 
 ### Sobre mim ⚡️
 
-Fala aí! Sou o Rafael, estudante de TI com uma pegada forte em cibersegurança, Python e hacking. Curto explorar vulnerabilidades e entender como as coisas funcionam por trás das cortinas digitais. Sempre mergulhado no mundo do hacking ético, busco formas criativas de fortalecer sistemas e resolver problemas complexos.
+Fala aí! Sou o Rafael, estudante de TI com foco em cibersegurança, Python e hacking. Curto explorar vulnerabilidades e entender como as coisas funcionam por trás das cortinas digitais. Sempre mergulhado no mundo do hacking ético, busco formas criativas de fortalecer sistemas e resolver problemas complexos.
 
 Com o Python como minha principal ferramenta, crio scripts e soluções que vão desde automações simples até projetos mais avançados. O foco é usar minhas habilidades pra inovar e entregar resultados eficientes. Se o papo é segurança, programação e inovação, pode contar comigo!
 
