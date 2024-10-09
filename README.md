@@ -4,7 +4,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-rafael.dev1-ff007a?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafael.dev1/profilecard/?igsh=N24ybmhsZWpkcnln)](https://www.instagram.com/rafael.dev1/profilecard/?igsh=N24ybmhsZWpkcnln)
 
 ### Sobre mim
-Sou estudante de Tecnologia da Informação, atualmente cursando **Segurança da Informação**. Tenho um forte interesse em cibersegurança, programação em Python e redes de computadores. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
+
+Fala aí! Sou o Rafael, estudante de TI com uma pegada forte em cibersegurança, Python e hacking. Curto explorar vulnerabilidades e entender como as coisas funcionam por trás das cortinas digitais. Sempre mergulhado no mundo do hacking ético, busco formas criativas de fortalecer sistemas e resolver problemas complexos.
+
+Com o Python como minha principal ferramenta, crio scripts e soluções que vão desde automações simples até projetos mais avançados. O foco é usar minhas habilidades pra inovar e entregar resultados eficientes. Se o papo é segurança, programação e inovação, pode contar comigo!
 
 ### Ferramentas e Tecnologias que utilizo
 <p>
