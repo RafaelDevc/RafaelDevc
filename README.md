@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael!
 
-[![Linkedin Badge](https://img.shields.io/badge/-RafaelDevc-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blue/)](https://www.linkedin.com/in/rafael-blue/)
+[![Linkedin Badge](https://www.linkedin.com/in/rafael-carvalho-02a4932b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![GitHub Badge](https://img.shields.io/badge/-RafaelDevc-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/notczzz)](https://github.com/notczzz)
 
 ### Sobre mim
